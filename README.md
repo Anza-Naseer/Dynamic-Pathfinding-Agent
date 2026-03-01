@@ -21,8 +21,11 @@ No external dependencies required.
 ## Installation
 
 Clone the repository:
+
 git clone https://github.com/Your_UserName/dynamic-pathfinding-agent.git
+
 Example:
+
 git clone https://github.com/Anza-Naseer/dynamic-pathfinding-agent.git
 
 Navigate into the folder:
