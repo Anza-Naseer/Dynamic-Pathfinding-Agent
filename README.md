@@ -9,7 +9,6 @@ An interactive grid-based pathfinding simulator implementing:
 - Real-Time Metrics Visualization
 
 ---
-
 ## Requirements
 
 - Python 3.9 or higher
@@ -46,8 +45,13 @@ python pathfinding_agent.py
 - Dynamic obstacle spawning
 - Automatic path re-planning
 - Live performance metrics
+- Implemented A* search algorithm
+- Integrated Manhattan and Euclidean heuristics
+
 
 ---
+
+
 
 ## Author
 
